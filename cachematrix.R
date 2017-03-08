@@ -39,4 +39,3 @@ cacheSolve <- function(a, ...) {
   a$setinverse(b)
   b
 }
-
